@@ -22,9 +22,8 @@ I'm a passionate software developer with a focus on backend development. Welcome
 - **LinkedIn:** [Noureldeen](https://www.linkedin.com/in/nour-el-deen-mahmoud-550375234)
 
 ## 🌟 Featured Projects
-- [Project 1](https://github.com/noureldeen-cpu/project1)
-- [Project 2](https://github.com/noureldeen-cpu/project2)
-- [Project 3](https://github.com/noureldeen-cpu/project3)
+- [My_University_project](https://github.com/noureldeen-cpu/My_University_project.git)
+- [R-Project](https://github.com/noureldeen-cpu/R-Project.git)
 
 Feel free to explore my repositories, and don't hesitate to contact me if you have any questions or collaboration ideas!
 
