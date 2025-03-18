@@ -15,7 +15,12 @@ I'm a passionate software developer with a focus on backend development. Welcome
 - **Tools:** Git, Visual Studio Code
 
 ## 📊 GitHub Stats
-![Noureldeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=noureldeen-cpu&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=noureldeen-cpu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=noureldeen-cpu&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noureldeen-cpu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 📫 Contact Me
 - **Email:** noureldeen242005@gmail.com
